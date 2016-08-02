@@ -1,0 +1,82 @@
+%% Compile order to get nomenclature working
+%% clean.sh
+%% PDFLatex
+%% 1. Make index (makeindex Thesis.nlo -s nomencl.ist -o Thesis.nls)
+%% PDFLatex x2
+%% Quick Build // generates the references, note sure how or why this step is needed
+%% view PDF
+
+
+
+\documentclass[a4paper, 12pt, oneside ]{Classes/CUEDthesisPSnPDF}
+
+\ifpdf
+    \pdfinfo { /Title  (Lung Cancer Driver Mutations in Non-Small Cell Lung Cancer)
+               /Creator (TeX)
+               /Producer (pdfTeX)
+               /Author (Charles N. Prabhakar cprabhakar@gmail.com)
+               /CreationDate (D:20150922121100)  %format D:YYYYMMDDhhmmss
+               /ModDate (D:20150922121100)
+               /Subject (Driver Mutations in Non-Small Cell Lung Cancer)
+               /Keywords (MPhil, Lung Cancer, Driver Mutations, Next Generation Sequencing, NSCLCa, adenocarcinoma, Non-small Cell lung Cancer)
+            }
+    \pdfcatalog { /PageMode (/UseOutlines)
+                  /OpenAction (fitbh)  }
+\fi
+
+
+\title{Lung Cancer Driver Mutations in Non-Small Cell Lung Cancer}
+\usepackage{textgreek}
+\usepackage{StyleFiles/watermark}
+\usepackage[backend=biber, sorting=none, style=nejm] {biblatex}
+\addbibresource{Thesis.bib}
+\usepackage{nomencl}
+\makeglossary
+
+
+\bibliography{References/references}
+
+\ifpdf
+  \author{\href{mailto:cprabhakar@gmail.com}{Charles N. Prabhakar}}
+  \collegeordept{\href{http://www.med.usyd.edu.au}{Faculty of Medicine}}
+  \university{\href{http://www.usyd.edu.au}{The University of Sydney}}
+  \crest{\includegraphics[width=45mm]{UnivShield.png}}
+\fi
+
+\degree{Master of Philosophy (Medicine)}
+\degreedate{Yet to be decided}
+
+
+\begin{document}
+
+\hbadness=10000
+\hfuzz=50pt
+%kludge to turn off warnings - not sure what this actually does.
+
+\maketitle
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{2}
+
+
+\frontmatter
+\tableofcontents
+\listoffigures
+\listoftables
+\printnomenclature
+\mainmatter
+\doublespacing
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0em}
+\include{Chapter1/chapter1}
+\backmatter
+\appendix
+
+%\section{bibliography}
+
+\addcontentsline{toc}{chapter}{Bibliography}
+
+\printbibliography
+
+\end{document}
+
+

@@ -1,0 +1,26 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{$COSMIC$}]\begingroup Catalogue of Somatic Mutations in Cancer\nomeqref {1.0}
+		\nompageref{3}
+  \item [{$DFS$}]\begingroup disease free survival\nomeqref {1.0}
+		\nompageref{5}
+  \item [{$EGF$}]\begingroup Epidermal Growth Factor\nomeqref {1.0}
+		\nompageref{4}
+  \item [{$EGFR$}]\begingroup Epidermal Growth Factor Receptor\nomeqref {1.0}
+		\nompageref{4}
+  \item [{$LCC$}]\begingroup large cell carcinoma\nomeqref {1.0}
+		\nompageref{3}
+  \item [{$NSCLCa$}]\begingroup non-small cell lung cancer\nomeqref {1.0}
+		\nompageref{2}
+  \item [{$OS$}]\begingroup overall survival\nomeqref {1.0}
+		\nompageref{5}
+  \item [{$SCLCa$}]\begingroup small cell lung cancer\nomeqref {1.0}
+		\nompageref{2}
+  \item [{$SqCC$}]\begingroup squamous cell carcinoma\nomeqref {1.0}
+		\nompageref{3}
+  \item [{$TKI$}]\begingroup Tyrosine Kinase Inhibitors\nomeqref {1.0}
+		\nompageref{3}
+
+\end{thenomenclature}

@@ -1,0 +1,49 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Contents}{i}{chapter*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{ii}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Tables}{iii}{chapter*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Lung Cancer}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}See Steven's email 22/10/15}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Epidemiology}{1}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Aetiology}{2}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Histopathology}{2}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Mutation}{3}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.1}EGFR}{3}{subsection.1.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.5.1.1}T790M}{5}{subsubsection.1.5.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.2}KRAS}{5}{subsection.1.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.3}ALK / ROS1 Rearrnagment}{5}{subsection.1.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.6}Prognosis}{5}{section.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.1}Early Stage}{5}{subsection.1.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.2}Late Stage}{6}{subsection.1.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.7}Diagnosis}{6}{section.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.1}Radiology}{6}{subsection.1.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.2}Tissue Obtaining}{6}{subsection.1.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.8}Tissue analysis}{7}{section.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.8.1}current methods}{7}{subsection.1.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.8.2}next gen sequencing}{7}{subsection.1.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{8}{subsection.1.8.2}
